@@ -440,7 +440,7 @@ function fetchSummary(messages, apiKey) {
           reject(new Error(response?.error || "Ошибка запроса"));
         }
       }
-    );
+    ); 
   });
 }
 
