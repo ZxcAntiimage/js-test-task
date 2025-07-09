@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/static/js/main.js",
+    "content.js": "/static/js/content.js",
+    "background.js": "/static/js/background.js",
+    "static/js/289.js": "/static/js/289.js",
+    "index.html": "/index.html",
+    "main.js.map": "/static/js/main.js.map",
+    "content.js.map": "/static/js/content.js.map",
+    "background.js.map": "/static/js/background.js.map",
+    "289.js.map": "/static/js/289.js.map"
+  },
+  "entrypoints": [
+    "static/js/289.js",
+    "static/js/main.js"
+  ]
+}
