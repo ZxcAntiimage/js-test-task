@@ -9,7 +9,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Grensa-AI/js-test-task
+git clone https://github.com/ZxcAntiimage/js-test-task
 cd js-test-task
 ```
 
