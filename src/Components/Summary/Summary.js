@@ -379,7 +379,7 @@ function getTelegramMessages(limit = 40) {
     "Это тестовое сообщение для генерации резюме."
   ];
 }
-// --- Мок-функция генерации "реального" AI-резюме ---
+// --- Мок-функция генерации  AI-резюме ---
 function fetchSummaryOpenAI(messages, apiKey, model) {
   // Много разных вариантов для каждой секции
   const professions = [
@@ -755,7 +755,7 @@ const CardIcon = styled.span`
   margin-right: 6px;
 `;
 
-// --- Мок-функция генерации "полноценного" резюме ---
+// --- Мок-функция генерации резюме ---
 function mockSummaryFromText(text) {
   // Примитивный "анализ" текста для мока
   const names = [
